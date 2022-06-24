@@ -6,6 +6,7 @@ def printHola():
 def print2Hola():
     print("hola")
     print("El hola escrito desde el remoto")
+    print("hola2")
 
 def print3Hola():
     print("hola", "hola", "hola")
